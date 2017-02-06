@@ -104,6 +104,11 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
     float: none;
 }
 
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
 /* ==============================
    Common styles
    ============================== */
